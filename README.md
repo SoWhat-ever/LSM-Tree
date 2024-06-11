@@ -1,4 +1,7 @@
-## Project 1: KVStore using Log-structured Merge Tree
+# LSM-Tree
+
+
+## KVStore using Log-structured Merge Tree
 
 
 The handout files include two main parts:
@@ -32,4 +35,3 @@ For the test files, of course you could modify it to debug your programs. But re
 
 Good luck :)
 
-# LSM-Tree
